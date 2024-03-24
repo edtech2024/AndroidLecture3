@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">My ApplicationThree</string>
+    <string name="item_description">description</string>
+    <string name="item_title">title</string>
+    <string name="item_type_one">type 1</string>
+    <string name="item_type_two">type 2</string>
+    <string name="item_save">save</string>
+    <string name="item_action">action</string>
+    <string name="item_id">id</string>
+
+    <string-array name="priorities">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+
+</resources>
