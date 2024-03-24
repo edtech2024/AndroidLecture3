@@ -66,7 +66,7 @@ class MainActivity : AppCompatActivity() {
     private fun initializationFAB(){
         // Register the FABs with ID
         addFab = findViewById(R.id.fab)
-        //addFab.setOnClickListener(View.OnClickListener { view ->
+
         addFab.setOnClickListener {
             // do something when the button is clicked
             val intentAdd = Intent(this@MainActivity, DetailActivity::class.java)
